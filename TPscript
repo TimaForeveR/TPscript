@@ -1,1 +1,1 @@
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new((coordinates))
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new((cordinates))
